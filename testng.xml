@@ -3,7 +3,7 @@
 <suite name="IncomeTaxPortalSuite">
     <test verbose="2" preserve-order="true" name="TaxSlabExtractionTest">
         <classes>
-            <class name="com.IncomeTaxSlabExtraction.tests.IncomeTaxHomePageTest"/>
+            <class name="com.IncomeTaxSlabExtraction.tests.TaxSlabExtractorTest"/>
         </classes>
     </test>
 </suite>
